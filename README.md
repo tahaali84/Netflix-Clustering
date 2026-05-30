@@ -20,3 +20,6 @@ A Streamlit-based Machine Learning project that clusters Netflix titles using KM
 - KMeans Clustering
 - Feature Scaling
 - One-Hot Encoding
+- PCA (Principal Component Analysis)
+- Silhouette Analysis
+- Elbow Method

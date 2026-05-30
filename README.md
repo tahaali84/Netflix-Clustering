@@ -17,6 +17,6 @@ A Streamlit-based Machine Learning project that clusters Netflix titles using KM
 - Seaborn
 
 📊 Machine Learning Concepts
-KMeans Clustering
-Feature Scaling
-One-Hot Encoding
+- KMeans Clustering
+- Feature Scaling
+- One-Hot Encoding

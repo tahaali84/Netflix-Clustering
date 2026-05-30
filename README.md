@@ -10,3 +10,5 @@ A Streamlit-based Machine Learning project that clusters Netflix titles using KM
 ## 🛠 Tech Stack
 - Python
 - Streamlit
+- Pandas
+- NumPy

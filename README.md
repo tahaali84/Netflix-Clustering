@@ -7,3 +7,6 @@ A Streamlit-based Machine Learning project that clusters Netflix titles using KM
 - Elbow Method & Silhouette Score
 -  PCA Visualization
 - Interactive Streamlit Dashboard
+## 🛠 Tech Stack
+- Python
+- Streamlit

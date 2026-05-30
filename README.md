@@ -1,0 +1,3 @@
+# 🎬 Netflix Show Clustering
+
+A Streamlit-based Machine Learning project that clusters Netflix titles using KMeans and visualizes patterns with PCA.

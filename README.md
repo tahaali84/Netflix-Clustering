@@ -12,3 +12,6 @@ A Streamlit-based Machine Learning project that clusters Netflix titles using KM
 - Streamlit
 - Pandas
 - NumPy
+- - Scikit-learn
+- Matplotlib
+- Seaborn

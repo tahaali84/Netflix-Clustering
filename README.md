@@ -15,6 +15,7 @@ A Streamlit-based Machine Learning project that clusters Netflix titles using KM
 - Scikit-learn
 - Matplotlib
 - Seaborn
+
 📊 Machine Learning Concepts
 KMeans Clustering
 Feature Scaling
